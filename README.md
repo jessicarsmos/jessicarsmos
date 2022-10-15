@@ -1,5 +1,3 @@
-### oi, meu nome é Jéssica !
-
 ![Jessica GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicarsmos&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia a dia...
